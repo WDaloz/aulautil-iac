@@ -1,0 +1,5 @@
+region   = "us-east-2"
+ami_name = "mynginx"
+type     = "t2.micro"
+key      = "workshop"
+name     = "demo"
